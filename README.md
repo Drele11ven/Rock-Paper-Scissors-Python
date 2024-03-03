@@ -10,7 +10,7 @@ Python 3.x
 ### Installation
 - Clone the repository:
 ```
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone https://github.com/Drele11ven/rock-paper-scissors.git
 ```
 - Change to the project directory:
 ```
